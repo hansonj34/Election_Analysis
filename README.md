@@ -1,7 +1,7 @@
 # Election_Analysis
 ## Colorado Election results 
 
-##  Overview Election Audit
+### Overview Election Audit
 Our company has been hired by a Colorado Board of Elections employee who has given our company multiple tasks to complete regarding the election audit of a recent local election. These include:
 
    The voter turnout for each county
@@ -16,11 +16,11 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
    Percentage of votes each candidate won
    The winner of the election based on popular vote
 
-##   Resources
+###   Resources
    Data Source:  election_results.cvs
    Software:  Python 3.10.8, Visual Studio Code, 1.73.0
 
-##   Election-Audit Results: 
+###   Election-Audit Results: 
    How many votes were cast in this congressional election?
    Total Votes: 369,711
    The number of votes and the percentage of total votes for each county in the precinct:
@@ -50,9 +50,9 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
 
 
 
-##  Election-Audit Summary
+###  Election-Audit Summary
 
-### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections:
+#### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections:
 
    The anlaysis of the election show that:
                 There were 369,711 total votes cast in the election.
@@ -68,7 +68,7 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
    
 
 
-##  Challenge Summary
+###  Challenge Summary
    The script allowed for analysis and reporting of the results of county districts and their district candidates.  This code was designed by CSV data files,              variables, arrays, dictionaries and lists to iterate through the data to arrive at the results above.
 
    This project could be utilized at other local congressional elections. It could also be modified for use with other politcal directives with a different set of        information at other levels of politics.
