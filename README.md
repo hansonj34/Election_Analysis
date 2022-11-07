@@ -71,4 +71,4 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
 ###  Challenge Summary
    The script allowed for analysis and reporting of the results of county districts and their district candidates.  This code was designed by CSV data files,              variables, arrays, dictionaries and lists to iterate through the data to arrive at the results above.
 
-   This project could be utilized at other local congressional elections. It could also be modified for use with other politcal directives with a different set of        information at other levels of politics.
+   This project could be utilized at other local congressional elections. It could also be modified for use with other politcal directives with a different set of        information at other higher levels of politics such as presidential voting for the country.
