@@ -1,7 +1,8 @@
 # Election_Analysis
-Colorado Election results 
+## Colorado Election results 
+
 ##  Overview Election Audit
-Our company has been hired by a Colorado Board of Elections employee has given our company multiple tasks to complete the election audit of a recent local election.
+Our company has been hired by a Colorado Board of Elections employee who has given our company multiple tasks to complete regarding the election audit of a recent local election. These include:
 
    The voter turnout for each county
    The percentage of votes from each county out of the total count
