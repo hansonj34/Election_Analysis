@@ -1,13 +1,13 @@
 # Election_Analysis
 Colorado Election results 
 ##  Overview Election Audit
-A Colorado Board of Elections employee has given our company the following tasks to complete the election audit of a recent local congressional election.
+Our company has been hired by a Colorado Board of Elections employee has given our company multiple tasks to complete the election audit of a recent local election.
 
    The voter turnout for each county
    The percentage of votes from each county out of the total count
    The county with the highest turnout
     
-   Previously we completed the following project for you with the following tasks
+   We have already completed the following tasks for you on another project:
 
    Total number of votes cast
    A complete list of candidates who received votes
@@ -17,12 +17,12 @@ A Colorado Board of Elections employee has given our company the following tasks
 
 ##   Resources
    Data Source:  election_results.cvs
-   Software:  Python 3.7.6, Visual Studio Code, 1.73.0
+   Software:  Python 3.10.8, Visual Studio Code, 1.73.0
 
 ##   Election-Audit Results: 
    How many votes were cast in this congressional election?
    Total Votes: 369,711
-   Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+   The number of votes and the percentage of total votes for each county in the precinct:
    County Votes:
    Jefferson: 10.5% (38,855)
 
@@ -32,14 +32,15 @@ A Colorado Board of Elections employee has given our company the following tasks
   
 ###  Which county had the largest number of votes?
    Largest County Turnout:   Denver
-   Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+   Breakdown of the number of votes and the percentage of the total votes each candidate received:
+   
    Charles Casper Stockham: 23.0% (85,213)
   
    Diana DeGette: 73.8% (272,892)
 
    Raymon Anthony Doane: 3.1% (11,606)
 
-   Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+   The winner of the election, their vote count, and their percentage of the total votes:
    Winner: Diana DeGette
    Winning Vote Count: 272,892
    Winning Percentage: 73.8%
@@ -49,7 +50,8 @@ A Colorado Board of Elections employee has given our company the following tasks
 
 
 ##  Election-Audit Summary
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+### Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections:
 
    The anlaysis of the election show that:
                 There were 369,711 total votes cast in the election.
@@ -60,10 +62,12 @@ Election-Audit Summary: In a summary statement, provide a business proposal to t
         
    Winner: Diana DeGette, who received 73.8% of the votes and  272,892 number of votes.
    
+   
+   
 
 
 
 ##  Challenge Summary
-   The script allowed for analysis and reporting of the results of a county districts and their district candidates.  This code was designed by CSV data files, variables, arrays, dictionaries and lists to itenerate through the data to arrive at the results above.
+   The script allowed for analysis and reporting of the results of county districts and their district candidates.  This code was designed by CSV data files, variables, arrays, dictionaries and lists to iterate through the data to arrive at the results above.
 
    With modifications of names and numbers this could be utilized at other local congressional election.  In fact adding further changes it could be used for State Elections Legislation Databases. 
