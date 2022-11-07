@@ -62,9 +62,8 @@ Our company has been hired by a Colorado Board of Elections employee has given o
         
    Winner: Diana DeGette, who received 73.8% of the votes and  272,892 number of votes.
    
-   ![Election_Results](https://github.com/hansonj34/Election_Analysis/blob/main/election_results.csv)
+   ![Election_Results](https://github.com/hansonj34/Election_Analysis/blob/main/election_results.txt.png)
    
-
 
 
 ##  Challenge Summary
