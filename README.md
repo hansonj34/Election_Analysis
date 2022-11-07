@@ -55,10 +55,11 @@ Our company has been hired by a Colorado Board of Elections employee has given o
 
    The anlaysis of the election show that:
                 There were 369,711 total votes cast in the election.
-        The candidates were:
+                
+   The candidates were:
                 Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane
 
-   The candidate results were:
+   The candidate final results show:
         
    Winner: Diana DeGette, who received 73.8% of the votes and  272,892 number of votes.
    
@@ -67,6 +68,6 @@ Our company has been hired by a Colorado Board of Elections employee has given o
 
 
 ##  Challenge Summary
-   The script allowed for analysis and reporting of the results of county districts and their district candidates.  This code was designed by CSV data files, variables, arrays, dictionaries and lists to iterate through the data to arrive at the results above.
+   The script allowed for analysis and reporting of the results of county districts and their district candidates.  This code was designed by CSV data files,              variables, arrays, dictionaries and lists to iterate through the data to arrive at the results above.
 
-   With modifications of names and numbers this could be utilized at other local congressional election.  In fact adding further changes it could be used for State Elections Legislation Databases. 
+   This project could be utilized at other local congressional elections. It could also be modified for use with other politcal directives with a different set of        information at other levels of politics.
