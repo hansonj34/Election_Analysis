@@ -11,7 +11,7 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
    
    The county with the highest turnout
     
-   We have already completed the following tasks for you on another project:
+   #### We have already completed the following tasks for you on another project:
 
    Total number of votes cast
    
