@@ -3,7 +3,7 @@
 ## Colorado Election Results 
 
 ### Overview Election Audit
-Our company has been hired by a Colorado Board of Elections employee who has given our company multiple tasks to complete regarding the election audit of a recent local election. These include:
+#### Our company has been hired by a Colorado Board of Elections employee who has given our company multiple tasks to complete regarding the election audit of a recent local election. These include:
 
    The voter turnout for each county
    
@@ -11,7 +11,7 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
    
    The county with the highest turnout
     
-   #### We have already completed the following tasks for you on another project:
+   ##### We have already completed the following tasks for you on another project:
 
    Total number of votes cast
    
