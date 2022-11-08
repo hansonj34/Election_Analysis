@@ -14,10 +14,15 @@ Our company has been hired by a Colorado Board of Elections employee who has giv
    We have already completed the following tasks for you on another project:
 
    Total number of votes cast
+   
    A complete list of candidates who received votes
+   
    Total number of votes each candidate received
+   
    Percentage of votes each candidate won
+   
    The winner of the election based on popular vote
+   
 
 ###   Resources
    Data Source:  election_results.cvs
